@@ -1,0 +1,13 @@
+Class Bartender
+
+Attributes:
+bar_clean: (boolean)
+servings_of_whiskey: (integer)
+max_beer_quantity: (integer)
+bar_open: (boolean)
+
+Methods:
+clean_bar: (sets bar_clean boolean to true)
+serve_whiskey: (servings of whiskey - 1)
+tap_beer: (beer quantity + 100)
+close_bar: (sets bar_open boolean to false)
