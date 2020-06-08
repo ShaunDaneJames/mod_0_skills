@@ -1,0 +1,13 @@
+Instance/Object Cook Jane doe
+
+Attributes:
+is_male: false
+age: 42
+name: "Jane doe"
+weight: 80
+
+Methods:
+increment_age: (42 + 1)
+get_married: "Jane doe" = "Jane Smith"
+consume_food: (80 + 2)
+is_gender_male: (prints False)
