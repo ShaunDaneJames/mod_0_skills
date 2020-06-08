@@ -1,0 +1,13 @@
+Class Cook
+
+Attributes:
+is_male: (Boolean)
+age: (integer)
+name: (string)
+weight: (float)
+
+Methods:
+increment_age: (age + 1)
+get_married: (update name)
+consume_food: (weight + weight of food consumed)
+is_gender_male: (prints true or false value of is_male attribute)
