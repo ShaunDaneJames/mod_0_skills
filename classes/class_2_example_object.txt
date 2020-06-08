@@ -1,0 +1,13 @@
+Instance/object Brian
+
+Attribues:
+bar_clean: (true)
+servings_of_whiskey: (100)
+max_beer_quantity: (100)
+bar_open: (false)
+
+Methods:
+clean_bar: (bar_clean = true)
+serve_whiskey: (100 - 1)
+tap_beer: (100 - 1)
+close_bar: (bar_open = false)
