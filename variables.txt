@@ -1,25 +1,25 @@
 food = "bananas with peanut butter"
-p food
+
 
 is_delicious = true
-p is_delicious
+
 
 food = "strawberries"
-p food
+
 
 num2 = 20
-p num2
+
 
 num7 = 10
-p num7
+
 
 quotient = (num7 / num2)
-p quotient
+
 
 songs = ["song1", "I have a good imagination", "I swear I know some song names", "Dust in the wind"]
-p songs
+
 
 songs.shift
-p songs
 
-p food.length
+
+food.length
