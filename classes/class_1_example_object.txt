@@ -1,13 +1,13 @@
-Instance/Object Cook Jane doe
+Instance/Object Kitchen computer
 
 Attributes:
-is_male: false
-age: 42
-name: "Jane doe"
-weight: 80
+Computer_location ("Kitchen")
+IP_address ("10.10.10.10")
+POS_computer (false)
+power_on (true)
 
 Methods:
-increment_age: (42 + 1)
-get_married: "Jane doe" = "Jane Smith"
-consume_food: (80 + 2)
-is_gender_male: (prints False)
+is_POS: POS_computer = false
+move_computer Computer_location = "Office computer"
+update_IP IP_address = "10.10.10.20"
+toggle_power power_on = false
